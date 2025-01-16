@@ -29,4 +29,4 @@ Por ultimo para eliminar solo damos click en "Eliminar" y listo:
 
 ![imagen](https://github.com/user-attachments/assets/e6c28f4c-b281-4b07-895e-78d5a1825557)
 
-
+Es un proyecto basico pero sirve de ejemplo o base para seguir aprendiendo el funcionamiento de spring boot.
